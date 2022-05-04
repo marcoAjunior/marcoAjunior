@@ -13,5 +13,5 @@
     <img aline: center alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
 
-### Apaixonado por tecnologia, inovação e Front-end.
+### Apaixonado por tecnologia.
 #### Email: marcoaurelioritajunior@gmail.com
